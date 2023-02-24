@@ -1,0 +1,8 @@
+[Thu May 12 10:34:30 2022] INFO: SICKEntailment Results: {'target': 81.37, 'params': {'alpha': 0.07270195557922342, 'noisy': 22.996618323399712}}
+[Thu May 12 11:58:06 2022] INFO: MRPC Results: {'target': 74.96, 'params': {'alpha': 0.14608815105870104, 'noisy': 14.570800778336015}}
+[Thu May 12 14:49:54 2022] INFO: TREC Results: {'target': 88.6, 'params': {'alpha': 0.06743846460789875, 'noisy': 17.101675150697755}}
+[Thu May 12 23:17:32 2022] INFO: SST2 Results: {'target': 84.13, 'params': {'alpha': 0.07221913034970982, 'noisy': 6.350197911184752}}
+[Fri May 13 13:50:08 2022] INFO: CR Results: {'target': 80.61, 'params': {'alpha': 0.14608815105870104, 'noisy': 14.570800778336015}}
+[Sun May 15 08:27:52 2022] INFO: MR Results: {'target': 77.99, 'params': {'alpha': 0.02001253431572151, 'noisy': 12.727105879001952}}
+[Sat May 14 15:50:06 2022] INFO: MPQA Results: {'target': 88.4, 'params': {'alpha': 0.12628007009043835, 'noisy': 3.025518646355998}}
+[Tue May 17 02:10:23 2022] INFO: SUBJ Results: {'target': 92.96, 'params': {'alpha': 0.08172190775266905, 'noisy': 12.437595264701603}}
